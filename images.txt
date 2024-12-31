@@ -1,2 +1,1 @@
-alpine
-xuxueli/xxl-job-admin:v2.1.2
+xuxueli/xxl-job-admin:2.1.2
