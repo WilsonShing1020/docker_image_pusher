@@ -1,1 +1,7 @@
 xuxueli/xxl-job-admin:2.1.2
+powerjob/powerjob-server:4.3.9
+seataio/seata-server:1.6.1
+bladex/sentinel-dashboard:1.8.0
+nacos/nacos-server:v2.3.0
+nginx:stable-alpine-perl
+redis:5.0.8-alpine
