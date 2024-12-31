@@ -1,1 +1,2 @@
+apline
 xuxueli/xxl-job-admin:v2.1.2
